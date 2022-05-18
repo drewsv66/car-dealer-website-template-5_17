@@ -1412,3 +1412,10 @@ footer .contact-form button.filled-button:hover {
 
 h5 a { color: #1e1e1e; } 
 h5 a:hover { color: inherit; } 
+
+/* logo image in banner */
+a.navbar-brand img {
+    height: auto;
+    width: 7%;
+    display: inline-block;
+}
