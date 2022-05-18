@@ -1419,7 +1419,11 @@ a.navbar-brand img {
     width: 7%;
     display: inline-block;
 }
-
+@media screen and (max-width: 500px) {
+	a.navbar-brand img {
+		width: 12%;
+	}
+}
 /* pooooop */
 /* poooooooooop */
 /* shittttt */
