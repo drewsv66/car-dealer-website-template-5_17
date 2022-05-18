@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a.filled-button {
-	background-color: #a4c639;
+	background-color: #1e1e1e;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -38,7 +38,8 @@ a.filled-button {
 
 a.filled-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e1e1e;
+	border: 2px solid #1e1e1e;
 }
 
 a.border-button {
@@ -56,7 +57,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 .section-heading {
@@ -72,7 +73,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 .section-heading span {
@@ -86,7 +87,7 @@ a.border-button:hover {
 
 #preloader {
   overflow: hidden;
-  background: #a4c639;
+  background: #1e1e1e;
   left: 0;
   right: 0;
   top: 0;
@@ -265,7 +266,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #a4c639!important;
+	color: #1e1e1e!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
@@ -400,15 +401,15 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(../images/slider-image-1-1920x900.jpg);
+	background-image: url(../images/AMGGT.jpeg);
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(../images/slider-image-2-1920x900.jpg);
+	background-image: url(../images/RS7.jpeg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/slider-image-3-1920x900.jpg);
+	background-image: url(../images/Merc.jpeg);
 }
 
 .Modern-Slider .NextArrow{
@@ -468,7 +469,7 @@ ul.slick-dots {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
-  color:#a4c639;
+  color:#fff;
   animation:fadeOutRight 1s both;
 }
 
@@ -535,7 +536,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #a4c639;
+	background-color: #1e1e1e;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -589,7 +590,7 @@ ul.slick-dots {
 
 .page-link:hover,
 .page-link {
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 .btn-primary {
@@ -654,7 +655,7 @@ ul.slick-dots {
 
 .fun-facts em {
 	font-style: normal;
-	color: #a4c639;
+	color: #fff;
 }
 
 .fun-facts p {
@@ -675,7 +676,7 @@ ul.slick-dots {
 
 .count-digit {
     margin: 5px 0px;
-    color: #a4c639;
+    color: #fff;
     font-weight: 700;
     font-size: 36px;
 }
@@ -733,7 +734,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
 	font-style: normal;
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 .more-info .right-content p {
@@ -774,7 +775,7 @@ ul.slick-dots {
 	margin-top: 8px;
 	font-weight: 600;
 	font-size: 14px;
-	color: #a4c639;
+	color: #1e1e1e;
 }
 .testimonial-item img {
 	max-width: 60px;
@@ -807,7 +808,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #a4c639;
+	background-color: #1e1e1e;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
@@ -883,11 +884,11 @@ ul.slick-dots {
 
 .callback-form .contact-form button.border-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 .contact-us .contact-form button.filled-button {
-	background-color: #a4c639;
+	background-color: #1e1e1e;
 	color: #fff;
 	border: none;
 	font-size: 13px;
@@ -905,7 +906,8 @@ ul.slick-dots {
 
 .contact-us .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #1e1e1e;
+	border: 2px solid #1e1e1e;
 }
 
 
@@ -979,7 +981,7 @@ footer ul.social-icons li a {
 }
 
 footer ul.social-icons li a:hover {
-	background-color: #a4c639;
+	background-color: #005fffed;
 }
 
 footer ul.menu-list li {
@@ -997,7 +999,7 @@ footer ul.menu-list li a {
 }
 
 footer ul.menu-list li a:hover {
-	color: #a4c639;
+	color: #1e1e1e;
 }
 
 footer .contact-form input {
@@ -1057,8 +1059,8 @@ footer .contact-form ::placeholder {
 
 footer .contact-form button.filled-button {
 	background-color: transparent;
-	color: #fff;
-	background-color: #a4c639;
+	color: #1e1e1e;
+	background-color: #fff;
 	border: none;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1074,8 +1076,8 @@ footer .contact-form button.filled-button {
 }
 
 footer .contact-form button.filled-button:hover {
-	background-color: #fff;
-	color: #a4c639;
+	background-color: #1e1e1e;
+	color: #fff;
 }
 
 
@@ -1169,7 +1171,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content span {
-	color: #a4c639;
+	color: #1e1e1e;
 	font-weight: 600;
 	font-size: 14px;
 	display: block;
@@ -1204,9 +1206,9 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 20px;
 	display: inline-block;
-	background-color: #a4c639;
+	background-color: #1e1e1e;
   	font-size: 18px;
-  	color: #121212;
+  	color: #fff;
   	letter-spacing: 0.5px;
   	font-weight: 700;
   	transition: all 0.3s;
@@ -1255,7 +1257,7 @@ footer .contact-form button.filled-button:hover {
 
 .dropdown-item.active, 
 .dropdown-item:active {
-	background-color: #a4c639;
+	background-color: #1e1e1e;
 }
 
 /* Contact Information */
@@ -1271,7 +1273,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item i {
-	color: #a4c639;
+	color: #1e1e1e;
 	font-size: 48px;
 	margin-bottom: 40px;
 }
@@ -1289,7 +1291,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item a {
 	font-weight: 600;
-	color: #a4c639;
+	color: #1e1e1e;
 	font-size: 15px;
 }
 
@@ -1408,5 +1410,5 @@ footer .contact-form button.filled-button:hover {
 	}
 }
 
-h5 a { color: #a4c639; } 
+h5 a { color: #1e1e1e; } 
 h5 a:hover { color: inherit; } 
