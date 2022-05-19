@@ -1424,8 +1424,22 @@ a.navbar-brand img {
 		width: 12%;
 	}
 }
-/* pooooop */
-/* poooooooooop */
-/* shittttt */
-/*test*/
-/*big ol shit*/
+
+/* centering and sizing video*/
+.video {
+    padding-top: 150px;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+    align-items: center;
+}
+iframe {
+    width: 75%;
+    height: 481px;
+}
