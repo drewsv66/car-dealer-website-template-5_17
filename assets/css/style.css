@@ -1405,7 +1405,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #a4c639!important;
+		color: #1e1e1e!important;
 		border-bottom: none!important;
 	}
 }
