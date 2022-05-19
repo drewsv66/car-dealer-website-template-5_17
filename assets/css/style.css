@@ -611,7 +611,7 @@ ul.slick-dots {
 /* Fun Facts */
 
 .fun-facts {
-	margin-top: 140px;
+	margin-top: 30px;
 	background-image: url(../images/63AMG.jpeg);
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -1427,7 +1427,7 @@ a.navbar-brand img {
 
 /* centering and sizing video*/
 .video {
-    padding-top: 150px;
+    padding-top: 50px;
 }
 .row {
     display: -ms-flexbox;
