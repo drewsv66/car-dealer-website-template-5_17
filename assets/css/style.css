@@ -1648,3 +1648,17 @@ iframe {
 	width: 75%;
 	height: 481px;
 }
+
+.service {
+	display: flex;
+  }
+  .service > div {
+	font-size: 4vh;
+	color: white;
+	background: #1e1e1e;
+	margin: .1em;
+	padding: .3em;
+	border-radius: 3px;
+	flex: 1;
+	margin: 10px;
+  }
