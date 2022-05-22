@@ -856,9 +856,8 @@ ul.slick-dots {
 }
 
 .testimonials {
-	margin-top: 100px;
 	background-color: #f7f7f7;
-	padding: 50px 0px;
+	padding: 100px 0px;
 }
 
 .testimonial-item .inner-content {
@@ -916,7 +915,7 @@ ul.slick-dots {
 }
 
 .callback-form {
-	margin-top: 140px;
+	margin-top: 100px;
 }
 
 .callback-form .contact-form {
