@@ -1609,7 +1609,7 @@ a.navbar-brand img {
   align-items: center;
 }
 
-iframe {
+.video iframe {
   width: 75%;
   height: 481px;
 }
