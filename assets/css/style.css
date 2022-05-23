@@ -1648,10 +1648,10 @@ iframe {
 	height: 481px;
 }
 
-.service {
+.service-row {
 	display: flex;
   }
-  .service > div {
+  .service-row > div {
 	font-size: 4vh;
 	color: white;
 	background: #1e1e1e;
@@ -1660,4 +1660,5 @@ iframe {
 	border-radius: 3px;
 	flex: 1;
 	margin: 10px;
+	align-content: center;
   }
