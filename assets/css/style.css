@@ -1648,3 +1648,7 @@ a.navbar-brand img {
 		flex-direction: column;
 	}
 }
+
+.yelpwidget{
+  background: #1e1e1e;
+}
