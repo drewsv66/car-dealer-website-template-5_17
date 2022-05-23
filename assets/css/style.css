@@ -1642,3 +1642,9 @@ a.navbar-brand img {
     text-align: center;
     width:79%;
 }
+
+@media screen and (max-width: 920px){
+	.service-row {
+		flex-direction: column;
+	}
+}
