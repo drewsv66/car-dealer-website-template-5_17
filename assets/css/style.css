@@ -1668,7 +1668,7 @@ a.navbar-brand img {
   display:flex;
   width: 20%;
   height: auto;
-  float:left;
+  float: left;
 }
 .service-title p{
 	font-size: 4vh;
@@ -1676,13 +1676,22 @@ a.navbar-brand img {
 	display: flex;
     justify-content: center;
     text-align: center;
-    width:79%;
+    width: 79%;
 }
 
 @media screen and (max-width: 920px){
 	.service-row {
 		flex-direction: column;
 	}
+  .service-image{
+    display: flex;
+    justify-content: center;
+  }
+
+  .service-title{
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .yelpwidget{
