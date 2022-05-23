@@ -1204,9 +1204,9 @@ footer .contact-form button.filled-button:hover {
   color: #fff;
   position: relative;
 }
-.page-heading1 {
+.page-heading-service {
 	text-align: center;
-	background-image: url(../images/AMGGT.jpeg);
+	background-image: url(../images/intheshop.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1219,7 +1219,7 @@ footer .contact-form button.filled-button:hover {
   position: relative;
   z-index: 2;
 }
-.page-heading1 .container {
+.page-heading-service .container {
 	position: relative;
 	z-index: 2;
   }
@@ -1234,7 +1234,7 @@ footer .contact-form button.filled-button:hover {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
-.page-heading1:before {
+.page-heading-service:before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -1251,7 +1251,7 @@ footer .contact-form button.filled-button:hover {
   letter-spacing: 2px;
   margin-bottom: 18px;
 }
-.page-heading1 h1 {
+.page-heading-service h1 {
 	text-transform: capitalize;
 	font-size: 36px;
 	font-weight: 700;
@@ -1266,7 +1266,7 @@ footer .contact-form button.filled-button:hover {
   color: #fff;
   display: block;
 }
-.page-heading1 span {
+.page-heading-service span {
 	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
