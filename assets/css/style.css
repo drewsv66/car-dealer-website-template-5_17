@@ -1626,16 +1626,19 @@ iframe {
   border-radius: 3px;
   flex: 1;
   margin: 10px;
-  align-content: center;
+  align-items: center;
 }
-.service img {
-  width: 100%;
+.service-image img{
+  display:flex;
+  width: 20%;
   height: auto;
+  float:left;
 }
-.service p{
+.service-title p{
 	font-size: 4vh;
 	color: white;
 	display: flex;
     justify-content: center;
     text-align: center;
+    width:79%;
 }
