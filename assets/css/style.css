@@ -1676,6 +1676,7 @@ a.navbar-brand img {
     justify-content: center;
     text-align: center;
     width: 79%;
+	line-height: 130%;
 }
 
 @media screen and (max-width: 920px){
