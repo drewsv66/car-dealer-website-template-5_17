@@ -1719,7 +1719,8 @@ ul.Detail {
 .detail-box {
   width: 42%;
   margin: 2%;
-  padding: 5%;
+  padding-left: 7%;
+  padding-right:2%;
   border-radius:25px;
   background-color: #cec5c5;
 }
@@ -1728,6 +1729,6 @@ ul.Detail {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 6%;
+  padding: 3%;
   background-color: #1E1E1F;
 }
