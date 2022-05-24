@@ -1405,7 +1405,8 @@ footer .contact-form button.filled-button:hover {
 }
 
 .tabs-content-1 img {
-  max-width: 100%;
+  width: 100%;
+  height:auto
   overflow: hidden;
 }
 
@@ -1698,4 +1699,24 @@ a.navbar-brand img {
 
 .yelpwidget{
   background: #1e1e1e;
+}
+
+ul.Detail {
+  list-style: disc;
+}
+
+.detail-box {
+  width: 42%;
+  margin: 2%;
+  padding: 5%;
+  border-radius:25px;
+  background-color: #cec5c5;
+}
+
+.all-detail {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 6%;
+  background-color: #1E1E1F;
 }
