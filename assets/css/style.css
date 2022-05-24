@@ -1644,6 +1644,17 @@ a.navbar-brand img {
   justify-content: center;
 }
 
+.gear-row {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+	justify-content: center;
+	margin-bottom: 20px;
+  }
+
 .video iframe {
   width: 75%;
   height: 481px;
